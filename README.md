@@ -8,7 +8,7 @@
 ### AI-Powered Intelligent Application Deployment & Troubleshooting Agent
 
 > **Project:** Intelligent Multi-Agent Cloud Deployment Pipeline  
-> **Repository:** [Tanya-garg10/DeployMate-AI](https://github.com/Tanya-garg10/DeployMate-AI)  
+> **Repository:** [Tanya-garg10/DeployMate-AI](https://github.com/hitu-pawar/DeployMate-AI)  
 > **Infrastructure Platform:** [Zerops](https://zerops.io)
 
 ## 💡 Executive Summary & Core Idea
